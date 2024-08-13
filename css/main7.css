@@ -1,0 +1,104 @@
+body{
+    background-color: lightpink;
+}
+.box{
+    width: 1200px;
+    margin: 20px auto;
+}
+.box-item-1{
+    width: 266px;
+    height: 170px;
+    font-size: 12px;
+    float: left;
+    background-color: white;
+    border: 1px solid white;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 46px;
+    border-top: 4px solid;
+    border-top-color: orangered;
+    border-top-left-radius: 20px;
+}
+.box-item-2{
+    width: 266px;
+    height: 170px;
+    font-size: 12px;
+    float: left;
+    background-color: white;
+    border: 1px solid white;
+    padding: 16px 24px;
+    margin-left: 25px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 46px;
+    border-top: 4px solid;
+    border-top-color: darkblue;
+    border-top-left-radius: 20px;
+}
+.box-item-3{
+    width: 266px;
+    height: 170px;
+    font-size: 12px;
+    float: left;
+    background-color: white;
+    border: 1px solid white;
+    padding: 16px 24px;
+    margin-left: 25px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 46px;
+    border-top: 4px solid;
+    border-top-color: orange;
+    border-top-left-radius: 20px;
+}
+.box-item-4{
+    width: 266px;
+    height: 170px;
+    font-size: 12px;
+    float: left;
+    background-color: white;
+    border: 1px solid white;
+    padding: 16px 24px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 46px;
+    border-top: 4px solid;
+    border-top-color: skyblue;
+    border-top-left-radius: 20px;
+}
+.box-item-5{
+    width: 266px;
+    height: 170px;
+    font-size: 12px;
+    float: left;
+    background-color: white;
+    border: 1px solid white;
+    padding: 16px 24px;
+    margin-left: 25px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 46px;
+    border-top: 4px solid;
+    border-top-color: yellow;
+    border-top-left-radius: 20px;
+}
+.box-item-6{
+    width: 266px;
+    height: 170px;
+    font-size: 12px;
+    float: left;
+    background-color: white;
+    border: 1px solid white;
+    padding: 16px 24px;
+    margin-left: 25px;
+    box-sizing: border-box;
+    text-align: center;
+    border-radius: 46px;
+    border-top: 4px solid;
+    border-top-color: blue;
+    border-top-left-radius: 20px;
+}
+.clear{
+    clear: both;
+}

@@ -1,0 +1,21 @@
+.body{
+    background-color: brown;
+}
+.box{
+    width: 1200px;
+    margin: 0 auto;
+    background-color: white;
+    border: 1px solid black;
+}
+.box-item{
+    border: 1px solid lightgrey;
+    width: 30%;
+    padding: 16px 24px;
+    text-align: center;
+    box-sizing: border-box;
+    float: left;
+    margin: 20px;
+    height: 480px;
+}
+
+
